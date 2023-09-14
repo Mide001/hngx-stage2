@@ -97,4 +97,4 @@ The API will be available at `http://localhost:your-port`.
 }
 `
 
-This documentation provides an overview of the REST API for managing persons. For more detailed information and sample API usage, please refer to the [GitHub repository](https://github.com/Mide001/HNGx-Stage-2).
+This documentation provides an overview of the REST API for managing persons. For more detailed information and sample API usage, please refer to the [GitHub repository](https://github.com/Mide001/hngx-stage2)
