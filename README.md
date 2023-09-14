@@ -69,8 +69,6 @@ The API will be available at `http://localhost:your-port`.
   "_id": "person-id",
   "fullName": "John Doe",
   "description": "A sample person",
-  "createdAt": "timestamp",
-  "updatedAt": "timestamp"
 }`
 
 #### Update a Person
